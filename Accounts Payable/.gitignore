@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build / coverage output
+build/
+dist/
+coverage/
+htmlcov/
+.coverage
+.coverage.*
+
+# Node (future frontend)
+node_modules/
+
+# Local data and env
+*.db
+*.sqlite3
+.env
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
