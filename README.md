@@ -137,7 +137,3 @@ app/
 tests/           pytest suite (migrated SQLite per test; PostgreSQL optional)
 ```
 
-
-## Parallel module work
-
-See [PARALLEL_WORK.md](PARALLEL_WORK.md) for the shared module baseline, current limitations and integration rules.
